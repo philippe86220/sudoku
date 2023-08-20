@@ -1,3 +1,4 @@
+#avec l'aide de @j-m-l https://forum.arduino.cc/t/python-3-tkinter/1156315/3
 import pickle
 from pathlib import Path
 import tkinter as tk
